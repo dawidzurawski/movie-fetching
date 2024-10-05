@@ -1,0 +1,94 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Inception",
+      "genre": "Science Fiction",
+      "release_year": 2010,
+      "director": "Christopher Nolan",
+      "description": "A skilled thief, who enters the subconscious of others to steal valuable secrets, is offered a chance to erase his criminal record if he can perform the most difficult task: implanting an idea into someone's mind.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Godfather",
+      "genre": "Crime",
+      "release_year": 1972,
+      "director": "Francis Ford Coppola",
+      "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son in this epic tale of family, power, and betrayal.",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTJkNGQyZDgtZDQ0NC00MDM0LWEzZWQtYzUzZDEwMDljZWNjXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Parasite",
+      "genre": "Thriller",
+      "release_year": 2019,
+      "director": "Bong Joon-ho",
+      "description": "A poor family schemes to become employed by a wealthy family and infiltrates their household by posing as unrelated, highly qualified individuals.",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjk1Y2U4MjQtY2ZiNS00OWQyLWI3MmYtZWUwNmRjYWRiNWNhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": 4,
+      "title": "The Shawshank Redemption",
+      "genre": "Drama",
+      "release_year": 1994,
+      "director": "Frank Darabont",
+      "description": "Two imprisoned men form a deep bond over several years, finding solace and eventual redemption through acts of common decency.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Pulp Fiction",
+      "genre": "Crime",
+      "release_year": 1994,
+      "director": "Quentin Tarantino",
+      "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": 6,
+      "title": "The Dark Knight",
+      "genre": "Action",
+      "release_year": 2008,
+      "director": "Christopher Nolan",
+      "description": "Batman faces off against the Joker, a criminal mastermind who seeks to plunge Gotham City into anarchy and forces the hero to confront the line between heroism and vigilantism.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Forrest Gump",
+      "genre": "Drama",
+      "release_year": 1994,
+      "director": "Robert Zemeckis",
+      "description": "The story of a man with a low IQ, who unwittingly influences major historical events while remaining blissfully unaware of their significance, all while chasing his childhood love.",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": 8,
+      "title": "The Matrix",
+      "genre": "Science Fiction",
+      "release_year": 1999,
+      "director": "The Wachowskis",
+      "description": "A computer hacker learns about the true nature of reality and his role in a rebellion against the machines controlling humanity in a simulated reality known as the Matrix.",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Spirited Away",
+      "genre": "Animation",
+      "release_year": 2001,
+      "director": "Hayao Miyazaki",
+      "description": "A young girl becomes trapped in a mysterious and magical world of spirits and gods, where she must work at a bathhouse while seeking a way to rescue her parents and return home.",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTEyNmEwOWUtYzkyOC00ZTQ4LTllZmUtMjk0Y2YwOGUzYjRiXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Gladiator",
+      "genre": "Action",
+      "release_year": 2000,
+      "director": "Ridley Scott",
+      "description": "A Roman general, betrayed and reduced to slavery, rises through the ranks of gladiatorial combat to avenge his family and overthrow the corrupt emperor who murdered them.",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_.jpg"
+    }
+  ]
+}
